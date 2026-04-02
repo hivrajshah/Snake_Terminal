@@ -24,12 +24,8 @@ The game runs entirely in the terminal and continuously refreshes the screen to 
 
 ⚙️ Installation & Run
 1. Clone the repository
-git clone https://github.com/your-username/snake-game-cpp.git
-cd snake-game-cpp
 2. Compile the code
-g++ snake.cpp -o snake
 3. Run the game
-./snake
 
 🎯 Controls
   W → Move Up
