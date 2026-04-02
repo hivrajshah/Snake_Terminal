@@ -3,11 +3,11 @@
 A classic Snake Game built using C++ that runs directly in the terminal. This project focuses on core programming fundamentals like loops, arrays, and conditional logic without using Object-Oriented Programming.
 
 🚀 Features
-  🎮 Classic snake gameplay in terminal
-  🔄 Continuous screen refresh for movement
-  📈 Score tracking system
-  ⚡ Fast and lightweight execution
-  🧠 Built using basic logic building concepts
+🎮 Classic snake gameplay in terminal
+🔄 Continuous screen refresh for movement
+📈 Score tracking system
+⚡ Fast and lightweight execution
+🧠 Built using basic logic building concepts
 
 🛠️ Concepts Used
 for loops
@@ -27,20 +27,20 @@ The game runs entirely in the terminal and continuously refreshes the screen to 
 3. Run the game
 
 🎯 Controls
-  W → Move Up
-  S → Move Down
-  A → Move Left
-  D → Move Right
-  X → Exit Game
-  
+W → Move Up
+S → Move Down
+A → Move Left
+D → Move Right
+X → Exit Game
+
 📌 Notes
-  This project is purely logic-based and avoids advanced concepts like classes and OOP.
-  Designed for beginners to understand how games work at a fundamental level.
+This project is purely logic-based and avoids advanced concepts like classes and OOP.
+Designed for beginners to understand how games work at a fundamental level.
 
 🤝 Contributing
+
 Feel free to fork this project and improve it!
 
 📄 License
 
 This project is open-source and free to use.
-
