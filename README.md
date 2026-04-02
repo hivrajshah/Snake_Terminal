@@ -3,7 +3,6 @@
 A classic Snake Game built using C++ that runs directly in the terminal. This project focuses on core programming fundamentals like loops, arrays, and conditional logic without using Object-Oriented Programming.
 
 🚀 Features
-
   🎮 Classic snake gameplay in terminal
   🔄 Continuous screen refresh for movement
   📈 Score tracking system
